@@ -1,9 +1,15 @@
 % c
 *.out
+
 % lex
 *.yy.c
+
 % intellij idea
 *.iml
 *out/
 *.idea/
+
+% eclipse
+.buildpath
+.project
 
