@@ -2,4 +2,8 @@
 *.out
 % lex
 *.yy.c
+% intellij idea
+*.iml
+*out/
+*.idea/
 
